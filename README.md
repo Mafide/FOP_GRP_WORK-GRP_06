@@ -1,5 +1,18 @@
 # FOP_GROUPWORK
 
+Group Members
+-------------
+1. Mindahun Debebe
+2. Miraf Debebe
+3. Misganw Tesfaye
+4. Mistire Daniel
+5. Nahom Teshome
+6. Nahom Tensaebirhan
+7. Rediet Birhanu
+
+Questions
+------------
+
 Q\#7: A program that reads a date as an integer, extracts the date, month and year and determine whether the date is a valid leap year - displaying 20 consecutive leap years if so.  
 
 Q\#8: TicketID-System that computes and displays the total number of people attending a function, the total amount of ticket sales and a list of how many infants, children, teenagers, and adults were at a function along with thier category codes.  
