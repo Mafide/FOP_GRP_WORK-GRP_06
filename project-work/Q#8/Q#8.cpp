@@ -54,7 +54,10 @@ input:
 		}
 		//prsnCd
 		for (iter += 1; *iter != '\0'; ++iter) { prsnCd += *iter; }
-
+		
+		
+		// The try statement allows you to define a block of code to be tested for errors while it is being executed,
+		// and catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
 		try
 		{
 			std::stoi(prsnCd, &pos);
