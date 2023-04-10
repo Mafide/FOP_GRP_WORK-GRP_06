@@ -55,7 +55,7 @@ Contribute
 ----------
 
 - Issue Tracker: https://github.com/oddegen/FOP_GRP_WORK-GRP_06/issues
-- Source Code: https://github.com/oddegen/FOP_GRP_WORK-GRP_06/tree/master/FOP_GRP_WORK-GRP_06/project-work
+- Source Code: https://github.com/oddegen/FOP_GRP_WORK-GRP_06/tree/master/project-work
 
 Support
 -------
